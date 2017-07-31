@@ -8,12 +8,12 @@
 #a controlled environment and only on equipment that you own.  Please follow all local, state, federal, and international, and religious laws.  
 # 
 #The below commands have been tested by an anonymous user to perform a rolljam attack on a remote power outlet  
-#Capture and  replay first code automatically: python rolljam.py -f 315060000 -r 1818 -m -40 -o -2500000 -O capture.io  
+#Capture and replay first code automatically: python rolljam.py -f 315060000 -r 1818 -m -40 -o -2500000 -O capture.io  
 #Capture and wait for keypress to replay first code: python rolljam.py -f 315060000 -r 1818 -m -40 -o -2500000 -O capture.io -k  
 #Load previous captures to replay: python rolljam.py -I capture.io  
 #  
 #The original rolljam was created by Samy Kamkar https://samy.pl  
-#Jammer portion of the code is borrowed from Alex's rolljam repo https://github.com/alextspy/rolljam/blob/master/rf_car_jam.py  
+#Jammer portion of the code is borrowed from Alex's rolljam repo https://github.com/alextspy/rolljam 
 #Scan and replay of the code is borrowed from Andrew Macpherson's RfCatHelpers https://github.com/AndrewMohawk/RfCatHelpers  
 #Combined and lightly modified into something similar to Samy Kamkar's original rolljam by Corey Harding from https://LegacySecurityGroup.com  
 
