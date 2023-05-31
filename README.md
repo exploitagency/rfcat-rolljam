@@ -13,3 +13,4 @@ The original rolljam was created by Samy Kamkar https://samy.pl
 Jammer portion of the code is borrowed from Alex's rolljam repo https://github.com/alextspy/rolljam  
 Scan and replay of the code is borrowed from Andrew Macpherson's RfCatHelpers https://github.com/AndrewMohawk/RfCatHelpers  
 Combined and lightly modified into something similar to Samy Kamkar's original rolljam by Corey Harding from https://LegacySecurityGroup.com  
+Modernized by RocketGod https://github.com/RocketGod-git
